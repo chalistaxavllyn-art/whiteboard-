@@ -1,0 +1,15 @@
+{
+  "name": "Papan Tulis Cute",
+  "short_name": "Papan Cute",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fff5f7",
+  "theme_color": "#ffe4e8",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1250/1250615.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
